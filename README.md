@@ -1,6 +1,7 @@
 # f_project
 
 A new Flutter project.
+Note: using google_fonts: 5.0.0 eta pubspec.yaml
 
 ## Getting Started
 
